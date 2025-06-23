@@ -1,8 +1,7 @@
-https://camo.githubusercontent.com/5ce2e21e84680df1ab24807babebc3417d27d66e0826a350eb04ab57f4c8f3e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368655f322e302d626c75652e737667
-https://camo.githubusercontent.com/68cfe37239c009069820fdc961d91eb4aa88ca57f6d367a7fd922b8d1ad86d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d426f6f73745f312e302d6c69676874626c75652e737667
-https://camo.githubusercontent.com/2c9d35079d2be27b8d22ec33d2e0e45f76f0521dd7faff71cb99461112781759/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4253445f332d2d436c617573652d626c75652e737667
-https://camo.githubusercontent.com/ad32ee663500af8c2dfdca0da692c04c5aee0895ee199483123b93ebffd4f102/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d43435f42592d2d53415f342e302d6c69676874677265792e737667
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # EmoDi is Emoji Parser in Text 
 ```
 hzkl@pc:~/Documents/project1$ ./app
