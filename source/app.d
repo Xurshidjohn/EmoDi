@@ -32,6 +32,7 @@ void checker(string matn) {
 }
 
 void main() {
-    checker("salom mani ismim Xurshid<dd> qalesila endi<like> a<disslike> ozlarinda tinchmi <heart>a aytilada!<broken-heart>");
-
+    writeln("Enter Text: ");
+    string text = readln();
+    checker(text);
 }
